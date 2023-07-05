@@ -183,7 +183,7 @@ Widget settings() {
   );
 }
 
-https://github.com/Juma-Emmanuel/Taskapp.git
+
 
 
 class DetailScreen extends StatelessWidget {
@@ -286,21 +286,7 @@ class MyDrawer extends StatelessWidget {
             },
           ),
           SizedBox(height: 20.0,),
-          ListTile(
-            leading: Icon(Icons.share,
-              color: Colors.blueGrey,
-              size: 25,
-            ),
-            title: Text('Share',
-              style: TextStyle(
-                color: Colors.blueGrey,
-                fontSize: 18,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-            onTap: (){
-            },
-          ),
+
           SizedBox(height: 20.0,),
           ListTile(
             leading: Icon(Icons.settings,
