@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-a simple app for keeping daily
+a simple app for keeping daily schedule
 
 A few resources to get you started if this is your first Flutter project:
 
